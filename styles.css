@@ -1,0 +1,104 @@
+body {
+	font-size: 16px;
+	color: #2b283a;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	margin: 0;
+}
+
+h1 {
+	color: whitesmoke;
+	margin: 0;
+	font-size: 36px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+
+h3 {
+	color: #d0aaff;
+	margin: 0;
+	font-size: 20px;
+}
+
+
+p {
+	margin: 10px;
+	line-height: 33px;
+}
+
+.btn {
+	color: #ef5839;
+	text-decoration: underline dotted;
+	padding: 10px 30px;
+	border-radius: 5px;
+	border: none;
+	font-weight: 700;
+	font-size: 20px;
+	text-decoration: none;
+	margin: 10px;
+	display: inline-block;
+}
+
+.buy-nft {
+	background-color: #5f29a3;
+	color: whitesmoke;
+}
+
+.more-info, .contact {
+	background-color: #f0e0ff;
+	color: #5f29a3;
+}
+
+.about-us {
+	background-color: whitesmoke;
+	color: #5f293a;
+}
+
+.btn:hover, .btn:active {
+	background-color: #f3e885;
+	color: #2b283a;
+}
+
+/*layout*/
+
+header {
+	background-color: #5f2983;
+	padding: 25px 0;
+}
+
+section {
+	padding: 25px 0;
+}
+
+.sneakers {
+	width: 100%;
+}
+
+.container {
+	width: 620px;
+	margin: 0 auto;
+}
+
+#second-section {
+	background-color: #5f29a3;
+	color: whitesmoke;
+}
+
+.sec-img {
+	width: 300px;
+	border-radius: 5px;
+}
+
+.img-container {
+	display: flex;
+	justify-content: space-between;
+}
+
+footer {
+	padding: 25px;
+	text-align: center;
+	color: #5f29a3;
+}
